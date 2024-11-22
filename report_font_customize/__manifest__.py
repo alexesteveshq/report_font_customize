@@ -5,7 +5,7 @@
     'name': 'Report Font Customize',
     'summary': 'Adjust font size in reports. (Report Font Configurator | Report Font | Report Font Size | Font Size)',
     'description': 'Adjust font size in reports',
-    'version': '17.0.1.0',
+    'version': '18.0.1.0',
     'category': 'Reports',
     'author': 'Visionee',
     'license': 'OPL-1',
