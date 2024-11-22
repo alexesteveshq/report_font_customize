@@ -20,7 +20,7 @@
     'images': [
         'static/description/banner.png',
     ],
-    'price': 30,
+    'price': 25,
     'currency': "EUR",
     'license': 'AGPL-3',
     'installable': True,
